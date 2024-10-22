@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Unit 16  Assignment 2 CCL", "Unit 16  Assignment 2 CCL\Unit 16  Assignment 2 CCL.pyproj", "{E19EA39B-08CD-4553-B343-E4B4D99F3576}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E19EA39B-08CD-4553-B343-E4B4D99F3576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E19EA39B-08CD-4553-B343-E4B4D99F3576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D5CC089-EF61-4212-A215-166E1B06BBC7}
+	EndGlobalSection
+EndGlobal
